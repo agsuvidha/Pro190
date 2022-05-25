@@ -4,8 +4,8 @@ button{
 #button-div{
     display:none;
     align-items: center;
-    justify-content: center;
-    position:fixed;
+    justify-content:space-evenly;
+    
     bottom:10px;
     width:100%;
     z-index:1;
